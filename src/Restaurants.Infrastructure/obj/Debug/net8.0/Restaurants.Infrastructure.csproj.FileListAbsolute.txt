@@ -17,3 +17,4 @@ D:\Udemy\Net8Ca\src\Restaurants.Infrastructure\obj\Debug\net8.0\refint\Restauran
 D:\Udemy\Net8Ca\src\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.pdb
 D:\Udemy\Net8Ca\src\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.genruntimeconfig.cache
 D:\Udemy\Net8Ca\src\Restaurants.Infrastructure\obj\Debug\net8.0\ref\Restaurants.Infrastructure.dll
+D:\Udemy\Net8Ca\src\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.sourcelink.json

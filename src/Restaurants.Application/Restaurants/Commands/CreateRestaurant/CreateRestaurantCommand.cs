@@ -1,9 +1,11 @@
-namespace Restaurants.Application.Restaurants.Dtos;
+using MediatR;
+
+namespace Restaurants.Application.Restaurants.Commands.CreateRestaurant;
 
 /// <summary>
-/// DTOCreateRestaurant
+/// RequestCreate
 /// </summary>
-public class CreateRestaurantDto
+public class CreateRestaurantCommand : IRequest<Guid>
 {
     public string Name { get; set; } = default!;
     public string Description { get; set; } = default!;

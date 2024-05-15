@@ -9,3 +9,4 @@ D:\Udemy\Net8Ca\src\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.dll
 D:\Udemy\Net8Ca\src\Restaurants.Domain\obj\Debug\net8.0\refint\Restaurants.Domain.dll
 D:\Udemy\Net8Ca\src\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.pdb
 D:\Udemy\Net8Ca\src\Restaurants.Domain\obj\Debug\net8.0\ref\Restaurants.Domain.dll
+D:\Udemy\Net8Ca\src\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.sourcelink.json

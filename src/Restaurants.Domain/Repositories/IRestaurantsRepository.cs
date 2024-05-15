@@ -24,4 +24,7 @@ public interface IRestaurantsRepository
     /// <param name="entity"></param>
     /// <returns></returns>
     Task<Guid> Create(Restaurant entity);
+
+    Task Delete(Restaurant restaurant);
+    Task SaveChanges();
 }

@@ -13,3 +13,4 @@ D:\Udemy\Net8Ca\src\Restaurants.Application\obj\Debug\net8.0\Restaurants.Applica
 D:\Udemy\Net8Ca\src\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
 D:\Udemy\Net8Ca\src\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
 D:\Udemy\Net8Ca\src\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll
+D:\Udemy\Net8Ca\src\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.sourcelink.json

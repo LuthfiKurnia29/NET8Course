@@ -141,3 +141,6 @@ D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\FluentValidation.dll
 D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Udemy\Net8Ca\src\Restaurants.API\obj\Debug\net8.0\Restaurants.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\MediatR.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\obj\Debug\net8.0\Restaurants.API.sourcelink.json

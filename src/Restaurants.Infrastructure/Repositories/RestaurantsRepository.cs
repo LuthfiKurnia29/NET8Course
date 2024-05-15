@@ -43,4 +43,20 @@ internal class RestaurantsRepository(RestaurantsDbContext context)
         await context.SaveChangesAsync();
         return entity.Id;
     }
+
+    /// <summary>
+    /// DeleteRestaurant
+    /// </summary>
+    /// <param name="restaurant"></param>
+    public async Task Delete(Restaurant restaurant)
+    {
+        context.Remove(restaurant);
+        await context.SaveChangesAsync();
+    }
+
+    /// <summary>
+    /// SaveChanges
+    /// </summary>
+    /// <returns></returns>
+    public Task SaveChanges() => context.SaveChangesAsync();
 }
