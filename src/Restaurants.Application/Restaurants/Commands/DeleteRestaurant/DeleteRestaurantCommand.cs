@@ -2,7 +2,11 @@ using MediatR;
 
 namespace Restaurants.Application.Restaurants.Commands.DeleteRestaurant;
 
-public class DeleteRestaurantCommand(Guid id) : IRequest<bool>
+/// <summary>
+/// DeleteRestaurantCommand
+/// </summary>
+/// <param name="id"></param>
+public class DeleteRestaurantCommand(Guid id) : IRequest
 {
     public Guid Id { get; } = id;
 }

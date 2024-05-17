@@ -3,7 +3,7 @@ using FluentValidation;
 namespace Restaurants.Application.Restaurants.Commands.EditRestaurant;
 
 /// <summary>
-/// ValidatorEditRestaurant
+/// ValidateEditRestaurant
 /// </summary>
 public class EditRestaurantCommandValidator : AbstractValidator<EditRestaurantCommand>
 {

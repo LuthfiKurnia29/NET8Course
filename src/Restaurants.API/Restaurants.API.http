@@ -22,4 +22,4 @@ Content-Type: "application/json"
 }
 
 ###
-DELETE {{Restaurants.API_HostAddress}}/api/restaurants/c5ff49d8-8e61-4b85-3ebc-08dc736e5976
+DELETE {{Restaurants.API_HostAddress}}/api/restaurants/c5ff49d8-8e61-4b85-3ebc-08dc736e597

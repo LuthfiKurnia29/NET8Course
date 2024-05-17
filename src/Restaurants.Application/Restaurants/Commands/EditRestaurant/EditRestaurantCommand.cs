@@ -6,7 +6,7 @@ namespace Restaurants.Application.Restaurants.Commands.EditRestaurant;
 /// EditRestaurantCommand
 /// </summary>
 /// <param name="id"></param>
-public class EditRestaurantCommand(Guid id) : IRequest<bool>
+public class EditRestaurantCommand(Guid id) : IRequest
 {
     public Guid Id { get; set; }
     public string Name { get; set; } = default!;

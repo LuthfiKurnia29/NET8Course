@@ -144,3 +144,16 @@ D:\Udemy\Net8Ca\src\Restaurants.API\obj\Debug\net8.0\Restaurants.API.MvcApplicat
 D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\MediatR.dll
 D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\MediatR.Contracts.dll
 D:\Udemy\Net8Ca\src\Restaurants.API\obj\Debug\net8.0\Restaurants.API.sourcelink.json
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Udemy\Net8Ca\src\Restaurants.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
